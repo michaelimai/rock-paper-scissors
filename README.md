@@ -10,7 +10,7 @@ We’re going to make a simple implementation of grade-school classic “rock pa
 
     * Make your function case insensitive (so users can input rock, ROCK, RocK, or any other variation)
 
-    * **Important Note:** you want to `return` the results of this function call, not `console.log()` them. To test this function console.log the results.
+    * **Important Note:** you want to `return` the results of this function call, not `console.log()` them.
 
 5. Write a NEW function called `game()`. Use the previous function inside of this one to play a 5 round game that keeps score and reports a winner or loser at the end.
     * At this point you should still just be using `console.log()` to display the results of each round and the winner at the end.
